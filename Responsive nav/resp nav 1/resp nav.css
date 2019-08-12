@@ -1,0 +1,41 @@
+nav {
+  border: 1px solid #eee;
+  background-color: #eee;
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Anton, sans-serif;
+  text-align: center;
+  font-size: 1.4rem;
+  border: 1px solid transparent;
+  vertical-align: middle;  
+  color:#c74f78;
+  padding: 5px;
+  line-height: 2rem;
+  height: 2rem;
+}
+
+a:hover {
+  background-color: #fff;
+  transition: background-color .3s ease-in-out;
+}
+
+a.active {
+  background-color: #c74f78;
+  color: #eee;
+}
+
+@media (max-width: 600px) {
+  a {
+    display: block;
+  }
+}
+
+
+
+
+
+
