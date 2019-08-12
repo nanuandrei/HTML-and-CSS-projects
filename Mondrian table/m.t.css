@@ -1,0 +1,110 @@
+#nanu {
+  width: 400px;
+  height: 400px;
+  background-color: #f1f1f1;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px gray;
+}
+
+#firstRow1 {
+  width: 100%;
+  height: 75%; 
+}
+
+#firstCub2 {
+  width: 75%;
+  height: 100%;
+  background-color: red;
+  float: right;
+}
+
+#firstScand3 {
+  height: 100%;
+  width: 3%;
+  background-color: black;
+  float: right;
+}
+
+#firstCol4 {
+  width: 22%;
+  height: 100%;
+}
+
+#firstEt6{
+  height: 3%;
+  width: 100%;
+  background-color: black;
+}
+
+#secEt5 {
+  height: 7%;
+  width: 100%;
+  background-color: black;
+  float: center; 
+}
+
+#secEt7 {
+  height: 46.5%;
+  width: 100%;
+  background-color: #f1f1f1;
+  float: center; 
+}
+
+#bottRow8 {
+  width: 75%;
+  height: 22%;
+  float: right;
+}
+
+#bottSep9 {
+  width: 3%;
+  height: 22%;
+  background-color: black;
+  float: right;
+}
+
+#colM10 {
+  height: 100%;
+  width: 14%;
+  background-color: ivory;
+  float: right;
+}
+
+#etM11 {
+  width: 100%;
+  height: 42.5%;
+  background-color: #f1f1f1;
+}
+
+#etM11_1 {
+  width: 100%;
+  height: 42.5%;
+  background-color: yellow;
+}
+
+#etM12 {
+  width: 100%;
+  height: 15%;
+  background-color: black;
+}
+
+#scandM13 {
+  height: 100%;
+  width: 29%;
+  background-color: black;
+}
+
+#bottSep14 {
+  width: 22%;
+  height: 22%;
+  background-color: blue;
+  float: right;
+}
+
+
+
+
+
+
+
+

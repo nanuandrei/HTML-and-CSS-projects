@@ -1,0 +1,101 @@
+/* Resetare CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('http://i.imgur.com/9kh3G8L.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+#profile { width: 100%; 
+  height: auto;
+  margin-right: auto; 
+  margin-left: auto; 
+  width: 550px;
+  max-width: calc(100vw - 10px);
+  max-height: calc(100vh - 10px);
+  background-color: hsla(0, 0%, 100%, .4);
+  box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
+  border-radius: 10px;
+  
+}
+
+#profImage {
+  text-align: center;
+}
+
+#img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-top: -60px;
+  background-color: #666;
+  padding: 1px;
+  transition: all 0.4s ease-in-out;
+  filter: grayscale(50%);
+}
+
+#img:hover{
+  transform: scale(1.1);
+  filter: grayscale(20%);
+}
+
+#name {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+#contMe {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#head {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 5%;
+}
+
+#content {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5% 10%;
+  border-top: 1px solid hsla(0, 0%, 30%, .8);
+}
+
+#about {
+  margin-bottom: 5%;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+a {
+  margin: 5px;
+}
+
+a:hover {
+  box-shadow: hsla(0, 0%, 0%, .8) 2px 2px 5px;
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+
+
+
+
