@@ -1,3 +1,3 @@
 Testing css
 
-link = https://nanuandrei.github.io/l-components/Mondrian%20table/
+link = https://nanuandrei.github.io/HTML-and-CSS-projects/Mondrian%20table/
