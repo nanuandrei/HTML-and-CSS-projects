@@ -1,1 +1,0 @@
-Medii flexibile incorporate
